@@ -1,8 +1,0 @@
-{
-    "version": "1.0.0",
-    "name": "bsf/sureforms-pdf",
-    "type": "library",
-    "require": {
-        "mpdf/mpdf": "^8.2"
-    }
-}
